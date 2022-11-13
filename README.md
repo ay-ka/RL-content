@@ -28,19 +28,17 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The File
 
 <br/>
 <br/>
 <br/>
 
-<div align="center">⭐ My Formal CV Website developed by html, css, js</div>
+<div align="center">⭐my knowledge about Reinforcement Learning is included but not limited to these slides </div>
 
 <br/>
 <br/>
 
-
-<div align="center"><h1>⭐ link to Website: <a href="https://ay-ka.github.io/CVwebsite/">Link</a></h1></div>
 
 <br/>
 <br/>
